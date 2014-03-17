@@ -1,5 +1,4 @@
-FROM ubuntu:precise
-MAINTAINER Manfred Touron "m@42.am"
+FROM stackbrew/ubuntu:saucy
 
 ENV DEBIAN_FRONTEND noninteractive
 
